@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "hermes-plugin-hindsight",
+  "versions": [
+    {
+      "commit": "7385025e90e98b0a4f8042f40ec956b71cb18287",
+      "parsed_at": "2026-09-29T19:05:23.353232+00:00",
+      "tag": "main",
+      "filetree": "filetree/7385025e90e98b0a4f8042f40ec956b71cb18287.nq.gz",
+      "blobs": [
+        "blob/75410e73319c72cd3e991a501c5455eb78f38375.nq.gz",
+        "blob/4a2f1dbf2422b3a50187d5f10011bf64f7abbb46.nq.gz",
+        "blob/00f2d38d8063d0c6b219c0081e51888063b0c55e.nq.gz",
+        "blob/302801f075928e8499ddf5a3c5351b8a4728b719.nq.gz",
+        "blob/bf71258714b7d0020167d4dffa4b51399f1b721f.nq.gz",
+        "blob/d29826c3f55573e483f2f64c2a18dbc21cd26b1d.nq.gz",
+        "blob/da7d337bfea13476e91e29892f78869885ea55d4.nq.gz",
+        "blob/27bf2de2e9bb02762e8498d424474c79c193edf0.nq.gz",
+        "blob/9dfa763af7f494cfe9171c9d64fadbba0525ae29.nq.gz",
+        "blob/c4d17a6a6f29aa97174dfb671b91d68107bf1c17.nq.gz",
+        "blob/6655b2a5d39fccd919a153b5aabfef9ba427a281.nq.gz",
+        "blob/e6fdbac351533f217325ffc9c09e8144c0a963d0.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}
