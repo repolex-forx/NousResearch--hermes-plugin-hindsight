@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/hermes-plugin-hindsight/commit/7385025e90e98b0a4f8042f40ec956b71cb18287",
       "git:hexsha": "7385025e90e98b0a4f8042f40ec956b71cb18287",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
