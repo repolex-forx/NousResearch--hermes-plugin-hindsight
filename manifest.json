@@ -49,7 +49,9 @@
           "source": "lsp",
           "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.14/site-packages/rich/console.py"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/7385025e90e98b0a4f8042f40ec956b71cb18287/chunk-001.nq.gz",
+      "dep": "dep/7385025e90e98b0a4f8042f40ec956b71cb18287.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
