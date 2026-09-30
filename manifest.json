@@ -24,6 +24,31 @@
       ],
       "ast": [
         "aggregate/ast/7385025e90e98b0a4f8042f40ec956b71cb18287/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/7385025e90e98b0a4f8042f40ec956b71cb18287.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "packaging",
+          "ecosystem": "PYPI",
+          "version": "26.3.0",
+          "githubOrg": "pypa",
+          "githubRepo": "packaging",
+          "githubUrl": "https://github.com/pypa/packaging",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.14/site-packages/packaging/version.py"
+        },
+        {
+          "packageName": "rich",
+          "ecosystem": "PYPI",
+          "version": "15.0.0",
+          "githubOrg": "Textualize",
+          "githubRepo": "rich",
+          "githubCommit": "6ac483cbea39cab124dfd3483bba70ffafb71050",
+          "githubTag": "v15.0.0",
+          "githubUrl": "https://github.com/Textualize/rich",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.14/site-packages/rich/console.py"
+        }
       ]
     }
   ],
